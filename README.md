@@ -1,3 +1,3 @@
 # meusfilmes
 Página de Filmes
-https://github.com/midia-lima/meusfilmes/settings
+https://midia-lima.github.io/meusfilmes/
