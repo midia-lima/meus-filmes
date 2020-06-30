@@ -5,27 +5,33 @@
     margin: 0;
     padding: 0;   
 }
+
 .nav {
     margin: -50px 50px;
 }
+
 .nome-site {  
     height: 100px; 
     font-size: 16px; 
     background: #000;  
     font-family: 'Nunito', sans-serif;
 }
+
 .menu {
     color: #fff;    
     transition: 0.3s ease-in-out;
     font-size: 15px;         
-}  
+} 
+
 .menu:hover, h1 {
     font-weight: bold;
     color: #a52b86;
-}  
+} 
+
 a {
     text-decoration: none;
 }
+
 h2, h3 {
     color: tomato;
     font-family: 'Nunito', sans-serif;
@@ -33,29 +39,40 @@ h2, h3 {
     font-size: 40px;
     font-weight: 900;
 }
+
 body {
     background: #1a191f;
 }
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
 .card {
     padding: 15px;
     background: #383838;
     box-shadow: 3px 3px 3px #ffffff80;
     transition: all 0.5s;   
 }
+
 .card:hover {
     -webkit-transform: scale(1.0);
     transform: scale(1.1);
 }
+
 h5 {
     color: white;
     font-size: 16px;
     font-family: 'Nunito', sans-serif; 
 }
+
 footer {
     color: #fff;
     text-align: center;
     padding-top: 50px;
 }
+
 .btn:hover {
     background: #a52b86;
 }
